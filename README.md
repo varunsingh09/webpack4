@@ -1,5 +1,5 @@
-webpack 4 React boilerplate GitHub license
-A simple and complete Webpack 4 React Boilerplate.
+webpack 4 React boilerplate 
+A simple and complete Webpack 4 
 
 Ready to start React App zap
 Image loader configured camera
@@ -58,4 +58,3 @@ Contributing
 Suggestions or pull requests are welcome.
 
 For major changes, please open an issue first to discuss what you would like to change.
-
