@@ -1,4 +1,4 @@
-webpack 4 React boilerplate 
+Webpack 4 React boilerplate 
 A simple and complete Webpack 4 
 
 Ready to start React App zap
@@ -7,13 +7,12 @@ SASS and CSS loaders configured art
 Hot reload configured sunny
 Unit test tools configured microscope
 Production build optimized chart_with_upwards_trend
-Motivation
+
 The purpose of this boilerplate is help to create new apps and projects. It's easy to customize and if you need help to understand you can check the commits for a step-by-step guide.
 
-It´s a solid base which will help to understand webpack core concepts.
+It´s a solid base which will help to understand webpack concept.
 
 Getting Started
-To start you can simply download the boilerplate and unzip it into your working directory. You can also clone if you want to contribute.
 
 Prerequisites
 Node.js v8 or above
